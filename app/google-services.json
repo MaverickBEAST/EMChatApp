@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "395552013159",
+    "firebase_url": "https://em-chat-project-default-rtdb.firebaseio.com",
+    "project_id": "em-chat-project",
+    "storage_bucket": "em-chat-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395552013159:android:c7354bda3b423fa14f4dc2",
+        "android_client_info": {
+          "package_name": "com.bhanukalahiru.emchatappa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395552013159-qlo64kpe11efs4mjeij6qbljjr4j2r53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_clUNsiuMNTAect-jmyoaRoZ-hDO-nnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395552013159-qlo64kpe11efs4mjeij6qbljjr4j2r53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "395552013159-tbh1ng62p78rhjopc7h2ahq5rd2q7ek6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mscchatem.chatemapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395552013159:android:eac3f6645d4a84a04f4dc2",
+        "android_client_info": {
+          "package_name": "com.crazyhitty.chdev.ks.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395552013159-qlo64kpe11efs4mjeij6qbljjr4j2r53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_clUNsiuMNTAect-jmyoaRoZ-hDO-nnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395552013159-qlo64kpe11efs4mjeij6qbljjr4j2r53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "395552013159-tbh1ng62p78rhjopc7h2ahq5rd2q7ek6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mscchatem.chatemapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395552013159:android:968d3438637379de4f4dc2",
+        "android_client_info": {
+          "package_name": "com.example.emchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395552013159-qlo64kpe11efs4mjeij6qbljjr4j2r53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_clUNsiuMNTAect-jmyoaRoZ-hDO-nnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395552013159-qlo64kpe11efs4mjeij6qbljjr4j2r53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "395552013159-tbh1ng62p78rhjopc7h2ahq5rd2q7ek6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mscchatem.chatemapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395552013159:android:4516464c7ea1566d4f4dc2",
+        "android_client_info": {
+          "package_name": "com.example.mscchatem.chatemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395552013159-qlo64kpe11efs4mjeij6qbljjr4j2r53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_clUNsiuMNTAect-jmyoaRoZ-hDO-nnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395552013159-qlo64kpe11efs4mjeij6qbljjr4j2r53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "395552013159-tbh1ng62p78rhjopc7h2ahq5rd2q7ek6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mscchatem.chatemapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
